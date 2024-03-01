@@ -1,3 +1,5 @@
+// Verificando se número pertence à sequência de Fibonacci
+
 function seqFibonacci(numero) {
     if (numero === 0 || numero === 1) {
         return true;
